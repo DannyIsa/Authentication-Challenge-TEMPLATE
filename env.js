@@ -1,0 +1,3 @@
+const ACCESS_TOKEN_SECRET = "dandy";
+const REFRESH_TOKEN_SECRET = "shiri";
+module.exports = { ACCESS_TOKEN_SECRET, REFRESH_TOKEN_SECRET };
